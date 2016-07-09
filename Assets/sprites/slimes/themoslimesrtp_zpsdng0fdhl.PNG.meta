@@ -1,0 +1,1949 @@
+fileFormatVersion: 2
+guid: a9cf6de7a1c23914da9cf9d613b282d1
+timeCreated: 1467915370
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: themoslimesrtp_zpsdng0fdhl_0
+    21300002: themoslimesrtp_zpsdng0fdhl_1
+    21300004: themoslimesrtp_zpsdng0fdhl_2
+    21300006: themoslimesrtp_zpsdng0fdhl_3
+    21300008: themoslimesrtp_zpsdng0fdhl_4
+    21300010: themoslimesrtp_zpsdng0fdhl_5
+    21300012: themoslimesrtp_zpsdng0fdhl_6
+    21300014: themoslimesrtp_zpsdng0fdhl_7
+    21300016: themoslimesrtp_zpsdng0fdhl_8
+    21300018: themoslimesrtp_zpsdng0fdhl_9
+    21300020: themoslimesrtp_zpsdng0fdhl_10
+    21300022: themoslimesrtp_zpsdng0fdhl_11
+    21300024: themoslimesrtp_zpsdng0fdhl_12
+    21300026: themoslimesrtp_zpsdng0fdhl_13
+    21300028: themoslimesrtp_zpsdng0fdhl_14
+    21300030: themoslimesrtp_zpsdng0fdhl_15
+    21300032: themoslimesrtp_zpsdng0fdhl_16
+    21300034: themoslimesrtp_zpsdng0fdhl_17
+    21300036: themoslimesrtp_zpsdng0fdhl_18
+    21300038: themoslimesrtp_zpsdng0fdhl_19
+    21300040: themoslimesrtp_zpsdng0fdhl_20
+    21300042: themoslimesrtp_zpsdng0fdhl_21
+    21300044: themoslimesrtp_zpsdng0fdhl_22
+    21300046: themoslimesrtp_zpsdng0fdhl_23
+    21300048: themoslimesrtp_zpsdng0fdhl_24
+    21300050: themoslimesrtp_zpsdng0fdhl_25
+    21300052: themoslimesrtp_zpsdng0fdhl_26
+    21300054: themoslimesrtp_zpsdng0fdhl_27
+    21300056: themoslimesrtp_zpsdng0fdhl_28
+    21300058: themoslimesrtp_zpsdng0fdhl_29
+    21300060: themoslimesrtp_zpsdng0fdhl_30
+    21300062: themoslimesrtp_zpsdng0fdhl_31
+    21300064: themoslimesrtp_zpsdng0fdhl_32
+    21300066: themoslimesrtp_zpsdng0fdhl_33
+    21300068: themoslimesrtp_zpsdng0fdhl_34
+    21300070: themoslimesrtp_zpsdng0fdhl_35
+    21300072: themoslimesrtp_zpsdng0fdhl_36
+    21300074: themoslimesrtp_zpsdng0fdhl_37
+    21300076: themoslimesrtp_zpsdng0fdhl_38
+    21300078: themoslimesrtp_zpsdng0fdhl_39
+    21300080: themoslimesrtp_zpsdng0fdhl_40
+    21300082: themoslimesrtp_zpsdng0fdhl_41
+    21300084: themoslimesrtp_zpsdng0fdhl_42
+    21300086: themoslimesrtp_zpsdng0fdhl_43
+    21300088: themoslimesrtp_zpsdng0fdhl_44
+    21300090: themoslimesrtp_zpsdng0fdhl_45
+    21300092: themoslimesrtp_zpsdng0fdhl_46
+    21300094: themoslimesrtp_zpsdng0fdhl_47
+    21300096: themoslimesrtp_zpsdng0fdhl_48
+    21300098: themoslimesrtp_zpsdng0fdhl_49
+    21300100: themoslimesrtp_zpsdng0fdhl_50
+    21300102: themoslimesrtp_zpsdng0fdhl_51
+    21300104: themoslimesrtp_zpsdng0fdhl_52
+    21300106: themoslimesrtp_zpsdng0fdhl_53
+    21300108: themoslimesrtp_zpsdng0fdhl_54
+    21300110: themoslimesrtp_zpsdng0fdhl_55
+    21300112: themoslimesrtp_zpsdng0fdhl_56
+    21300114: themoslimesrtp_zpsdng0fdhl_57
+    21300116: themoslimesrtp_zpsdng0fdhl_58
+    21300118: themoslimesrtp_zpsdng0fdhl_59
+    21300120: themoslimesrtp_zpsdng0fdhl_60
+    21300122: themoslimesrtp_zpsdng0fdhl_61
+    21300124: themoslimesrtp_zpsdng0fdhl_62
+    21300126: themoslimesrtp_zpsdng0fdhl_63
+    21300128: themoslimesrtp_zpsdng0fdhl_64
+    21300130: themoslimesrtp_zpsdng0fdhl_65
+    21300132: themoslimesrtp_zpsdng0fdhl_66
+    21300134: themoslimesrtp_zpsdng0fdhl_67
+    21300136: themoslimesrtp_zpsdng0fdhl_68
+    21300138: themoslimesrtp_zpsdng0fdhl_69
+    21300140: themoslimesrtp_zpsdng0fdhl_70
+    21300142: themoslimesrtp_zpsdng0fdhl_71
+    21300144: themoslimesrtp_zpsdng0fdhl_72
+    21300146: themoslimesrtp_zpsdng0fdhl_73
+    21300148: themoslimesrtp_zpsdng0fdhl_74
+    21300150: themoslimesrtp_zpsdng0fdhl_75
+    21300152: themoslimesrtp_zpsdng0fdhl_76
+    21300154: themoslimesrtp_zpsdng0fdhl_77
+    21300156: themoslimesrtp_zpsdng0fdhl_78
+    21300158: themoslimesrtp_zpsdng0fdhl_79
+    21300160: themoslimesrtp_zpsdng0fdhl_80
+    21300162: themoslimesrtp_zpsdng0fdhl_81
+    21300164: themoslimesrtp_zpsdng0fdhl_82
+    21300166: themoslimesrtp_zpsdng0fdhl_83
+    21300168: themoslimesrtp_zpsdng0fdhl_84
+    21300170: themoslimesrtp_zpsdng0fdhl_85
+    21300172: themoslimesrtp_zpsdng0fdhl_86
+    21300174: themoslimesrtp_zpsdng0fdhl_87
+    21300176: themoslimesrtp_zpsdng0fdhl_88
+    21300178: themoslimesrtp_zpsdng0fdhl_89
+    21300180: themoslimesrtp_zpsdng0fdhl_90
+    21300182: themoslimesrtp_zpsdng0fdhl_91
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: themoslimesrtp_zpsdng0fdhl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 8}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 4}
+        - {x: 9, y: 9}
+    - name: themoslimesrtp_zpsdng0fdhl_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 8, y: 12}
+    - name: themoslimesrtp_zpsdng0fdhl_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 8}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 4}
+        - {x: 9, y: 9}
+    - name: themoslimesrtp_zpsdng0fdhl_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 8, y: 12}
+    - name: themoslimesrtp_zpsdng0fdhl_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 8}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 4}
+        - {x: 9, y: 9}
+    - name: themoslimesrtp_zpsdng0fdhl_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 8, y: 12}
+    - name: themoslimesrtp_zpsdng0fdhl_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 8}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 4}
+        - {x: 9, y: 9}
+    - name: themoslimesrtp_zpsdng0fdhl_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 8, y: 12}
+    - name: themoslimesrtp_zpsdng0fdhl_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: -6, y: -2}
+        - {x: -10, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: -10}
+        - {x: 11, y: -3}
+    - name: themoslimesrtp_zpsdng0fdhl_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: -6, y: -2}
+        - {x: -10, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: -10}
+        - {x: 11, y: -3}
+    - name: themoslimesrtp_zpsdng0fdhl_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: -6, y: -2}
+        - {x: -10, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: -10}
+        - {x: 11, y: -3}
+    - name: themoslimesrtp_zpsdng0fdhl_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: -6, y: -2}
+        - {x: -10, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: -10}
+        - {x: 11, y: -3}
+    - name: themoslimesrtp_zpsdng0fdhl_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: -6, y: -2}
+        - {x: -10, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: -10}
+        - {x: 11, y: -3}
+    - name: themoslimesrtp_zpsdng0fdhl_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: -6, y: -2}
+        - {x: -10, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: -10}
+        - {x: 11, y: -3}
+    - name: themoslimesrtp_zpsdng0fdhl_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 8}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 4}
+        - {x: 9, y: 9}
+    - name: themoslimesrtp_zpsdng0fdhl_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 8, y: 12}
+    - name: themoslimesrtp_zpsdng0fdhl_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 8}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 4}
+        - {x: 9, y: 9}
+    - name: themoslimesrtp_zpsdng0fdhl_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 8, y: 12}
+    - name: themoslimesrtp_zpsdng0fdhl_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 8}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 4}
+        - {x: 9, y: 9}
+    - name: themoslimesrtp_zpsdng0fdhl_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 8, y: 12}
+    - name: themoslimesrtp_zpsdng0fdhl_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: -6, y: -2}
+        - {x: -10, y: -4}
+        - {x: -13, y: -10}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: -10}
+        - {x: 11, y: -3}
+    - name: themoslimesrtp_zpsdng0fdhl_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 6, y: 9}
+        - {x: -7, y: 9}
+        - {x: -15, y: 2}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -2}
+        - {x: 14, y: 3}
+    - name: themoslimesrtp_zpsdng0fdhl_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 7}
+        - {x: -15, y: -15}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+    - name: themoslimesrtp_zpsdng0fdhl_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 4}
+        - {x: 9, y: 8}
+    - name: themoslimesrtp_zpsdng0fdhl_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: 6, y: -14}
+        - {x: 6, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
