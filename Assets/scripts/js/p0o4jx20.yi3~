@@ -1,0 +1,22 @@
+﻿#pragma strict
+
+Image:foregroundImage;
+
+
+
+function Value(){
+    if(foregroundImage != null)
+        return (int)(foregroundImage.fillAmount*100);	
+    else
+        return 0;
+}
+
+
+
+function Start () {
+
+}
+
+function Update () {
+
+}
