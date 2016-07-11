@@ -45,6 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\js\CreatureStats.js" />
+     <Compile Include="Assets\scripts\js\DungeonCore.js" />
+     <Compile Include="Assets\scripts\js\DungeonFakeCore.js" />
      <Compile Include="Assets\scripts\js\Progressbar.js" />
      <Compile Include="Assets\scripts\js\UserHUD.js" />
  <Reference Include="UnityEngine.UI">

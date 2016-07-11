@@ -1,7 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\js\Progressbar.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\js\CreatureStats.js">
     <Files>
+      <File FileName="Assets\scripts\js\CreatureStats.js" Line="18" Column="1" />
       <File FileName="Assets\scripts\js\Progressbar.js" Line="20" Column="11" />
       <File FileName="Assets\scripts\csharp\Rotator.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\csharp\PlayerController.cs" Line="1" Column="1" />
