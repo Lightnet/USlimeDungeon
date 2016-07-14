@@ -45,6 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\csharp\CSDungeonCoreDragScreen.cs" />
+     <Compile Include="Assets\scripts\csharp\CameraDragMove.cs" />
+     <Compile Include="Assets\scripts\csharp\DragCamera.cs" />
      <Compile Include="Assets\scripts\csharp\PlayerController.cs" />
      <Compile Include="Assets\scripts\csharp\Rotator.cs" />
  <Reference Include="UnityEngine.UI">

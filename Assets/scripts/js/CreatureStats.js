@@ -1,6 +1,24 @@
 ﻿#pragma strict
 
-var name:String = "";
+
+var name:String = "";//real name
+var defaultname:String = "";//monster default
+
+var nameid:String = "";
+
+var bdefaultname:boolean = false;
+
+var ownername:String = "";
+var ownerid:String = "";
+
+var partyname:String = "";
+var partyid:String = "";
+
+var bcontroller:boolean = false;
+var bbot:boolean = true;
+var botobjscript:Transform;
+
+
 var gender:String;
 var races:String[];
 var title:String = "";
