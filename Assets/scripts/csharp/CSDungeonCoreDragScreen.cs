@@ -16,6 +16,27 @@ public class CSDungeonCoreDragScreen : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+		float mwheel = Input.GetAxis("Mouse ScrollWheel");
+
+		if (mwheel > 0f)
+		{
+			// scroll up
+			Camera.main.fieldOfView += 1;
+			if (Camera.main.fieldOfView > 56) {
+				Camera.main.fieldOfView = 56;
+			}
+		}
+		else if (mwheel < 0f)
+		{
+			// scroll down
+			Camera.main.fieldOfView -= 1;
+			if (Camera.main.fieldOfView < 8) {
+				Camera.main.fieldOfView = 8;
+			}
+		}
+
+
+
 		if (Input.GetMouseButtonDown (1)) {
 			transform.position = new Vector3 (0, 0, transform.position.z);
 		}

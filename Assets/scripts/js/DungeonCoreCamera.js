@@ -6,9 +6,12 @@ var bcontrol:boolean = true;
 
 var camera_min_fov:float = 1;
 var camera_max_fov:float = 56.2;
-var bdragmouse:boolean = false;
-var dragSpeed:float = 2;
-var dragOrigin:Vector3;
+//var bdragmouse:boolean = false;
+//var dragSpeed:float = 2;
+//var dragOrigin:Vector3;
+
+ public var mouseSensitivity : float = 0.1;
+ private var lastPosition : Vector3;
 
 function Start () {
 
@@ -18,6 +21,26 @@ function Start () {
 
 function Update () {
 
+	if (Input.GetMouseButtonDown(1))
+     {
+         lastPosition = Input.mousePosition;
+     }
+ 
+     if (Input.GetMouseButton(1))
+     {
+         var delta : Vector3 = Input.mousePosition - lastPosition;
+         transform.Translate( (delta.x * mouseSensitivity) * -1, (delta.y * mouseSensitivity) * -1, 0);
+         lastPosition = Input.mousePosition;
+     }
+
+
+
+
+
+
+
+
+	/*
 	if (Input.GetMouseButtonDown(0))
         {            
             bdragmouse = true;
@@ -36,13 +59,10 @@ function Update () {
         	transform.Translate(move);
         }
 
+        */
 
 
-
-
-
-        /*
-
+    /*
 	if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Moved) {
          var touchDeltaPosition:Vector2 = Input.GetTouch(0).deltaPosition;
          transform.Translate(-touchDeltaPosition.x * speed, -touchDeltaPosition.y * speed, 0);
@@ -72,8 +92,6 @@ function Update () {
      }
 
      */
-
-
 
      /*
 	if(Input.GetKey("a")){
