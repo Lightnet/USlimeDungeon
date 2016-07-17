@@ -22,7 +22,7 @@ function FixedUpdate()
         rd2d.AddForce(movement * speed);
 
         if(anim !=null){
-        print(movement.x);
+        //print(movement.x);
         	anim.SetFloat("dirx",movement.x);
         	anim.SetFloat("diry",movement.y);
         }

@@ -50,6 +50,7 @@
      <Compile Include="Assets\scripts\csharp\DragCamera.cs" />
      <Compile Include="Assets\scripts\csharp\PlayerController.cs" />
      <Compile Include="Assets\scripts\csharp\Rotator.cs" />
+     <Compile Include="Assets\scripts\csharp\Utils.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
