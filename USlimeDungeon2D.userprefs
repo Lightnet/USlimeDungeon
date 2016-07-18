@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\js\DungeonGameModejs.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\js\CreatureHPBarjs.js">
     <Files>
-      <File FileName="Assets\scripts\js\DungeonGameModejs.js" Line="72" Column="5" />
+      <File FileName="Assets\scripts\js\CreatureHPBarjs.js" Line="7" Column="1" />
+      <File FileName="Assets\scripts\js\CameraDragScreen01.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\js\DungeonGameModejs.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\js\CreatureDisplayNamejs.js" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
