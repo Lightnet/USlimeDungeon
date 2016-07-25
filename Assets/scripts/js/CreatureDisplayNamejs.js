@@ -6,7 +6,8 @@ var size : Vector2 = new Vector2(32,10);
  
 function OnGUI()
 {
-     var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y * -1,transform.position.z ));
+     //var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y * -1,transform.position.z )); //2d
+     var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y,transform.position.z * -1)); //3d
      //var wantedPos = Camera.main.WorldToScreenPoint( transform.position);
      //GUI.Box (Rect (wantedPos.x,wantedPos.y, size.x, size.y),progressBarFull);
      GUI.Label(new Rect(wantedPos.x + pos.x,wantedPos.y+ pos.y, size.x, size.y), "Name:");

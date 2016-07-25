@@ -24,8 +24,5 @@ public class PlayerController : MonoBehaviour {
         Vector2 movement = new Vector2(moveHorizontal, moveVertical);
 
         rd2d.AddForce(movement * speed);
-
-
     }
-
 }

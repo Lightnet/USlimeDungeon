@@ -13,6 +13,9 @@ var mousePosition1:Vector3;
 var maincamera: Camera;
 var prefabcreartures:CreatureStats[];
 
+var bactionmouse:boolean = false;
+var setposition:Vector3;
+
 
 var selectunits = new Array();
 
@@ -60,10 +63,11 @@ function GetScreenRect( screenPosition1:Vector3,  screenPosition2:Vector3 )
 
 function SelectUnitRange( screenPosition1:Vector3,  screenPosition2:Vector3 ){
 
-	var v1 = new Camera.main.ScreenToWorldPoint( new Vector3(screenPosition1.x, screenPosition1.y, 10) );
+	//var v1 = new Camera.main.ScreenToWorldPoint( new Vector3(screenPosition1.x, screenPosition1.y, 10) );
+	var v1 = new Camera.main.ScreenToWorldPoint(screenPosition1 );
 	//print(v1);
 
-	var v2 = new Camera.main.ScreenToWorldPoint( new Vector3(screenPosition2.x, screenPosition2.y, 10) );
+	var v2 = new Camera.main.ScreenToWorldPoint(screenPosition2);
 
 	var min = Vector3.Min( v1, v2 );
     var max = Vector3.Max( v1, v2 );
@@ -75,9 +79,13 @@ function SelectUnitRange( screenPosition1:Vector3,  screenPosition2:Vector3 ){
     if(screenPosition1 == screenPosition2){
     	//print("same?");
     	var ray:Ray;
-    	var hit:RaycastHit2D;
-    	ray = Camera.main.ScreenPointToRay(new Vector3(screenPosition2.x, screenPosition2.y, 10));
-		hit = Physics2D.Raycast(ray.origin, ray.direction);
+    	//var hit:RaycastHit2D;
+    	var bhit:boolean;
+    	var hit:RaycastHit;
+    	//ray = Camera.main.ScreenPointToRay(new Vector3(screenPosition2.x, screenPosition2.y, 10));
+    	ray = Camera.main.ScreenPointToRay(screenPosition2);
+		//hit = Physics2D.Raycast(ray.origin, ray.direction);
+		bhit = Physics.Raycast(ray, hit);
 		var unit1:CreatureStats;
 		var ounitray;
 
@@ -111,7 +119,10 @@ function SelectUnitRange( screenPosition1:Vector3,  screenPosition2:Vector3 ){
     	}else{
     		selectunits = new Array();
     		print("clear units");
-    		selectunits.Push(unit1);
+    		print(unit1);
+    		if(unit1 !=null){
+    			selectunits.Push(unit1);
+    		}
     	}
     }else{
     	if(bshifkey == false){
@@ -213,6 +224,54 @@ function Update () {
 			bshifkey = false;
 		}
 		//print(shifkey);
+
+	if (Input.GetMouseButton(1))
+	{
+		bactionmouse = true;
+
+	}
+
+	if( Input.GetMouseButtonUp( 1 ) ){
+		bactionmouse = false;
+	}
+
+	//print(bactionmouse);
+
+	//setposition = new Camera.main.ScreenToWorldPoint( new Vector3(Input.mousePosition.x, Input.mousePosition.y, 10) );
+	//print(setposition);
+
+	if(bactionmouse){
+		//setposition = new Camera.main.ScreenToWorldPoint( new Vector3(Input.mousePosition.x, Input.mousePosition.y, 10) );
+		//setposition = new Camera.main.ScreenToWorldPoint(Input.mousePosition);
+		var hit:RaycastHit;
+		var pos:Vector3;
+		var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+		if(Physics.Raycast(ray, hit)){
+			if(hit.point != null){
+				print(hit.point);
+				pos = hit.point;
+			}
+		}
+
+
+		print("move?");
+		for(var ounit:CreatureStats in selectunits){
+			if(ounit !=null){
+		  		var bot:CreatureBotjs = ounit.transform.gameObject.GetComponent(CreatureBotjs) as CreatureBotjs;
+		  		if(bot !=null){
+		  			print("pass move!");
+		  			//bot.MoveTo(new Vector3(setposition.x,setposition.y,ounit.transform.position.z));
+		  			if(pos !=null){
+		  				bot.MoveTo(pos);
+		  			}
+		  		}
+	  		}
+	  	}
+	}
+
+	//var screenpoint = new Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+	//print(screenpoint);
 }
 
  function OnGUI()
