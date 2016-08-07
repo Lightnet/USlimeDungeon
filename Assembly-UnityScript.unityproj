@@ -50,6 +50,7 @@
      <Compile Include="Assets\scripts\js\CreatureDisplayNamejs.js" />
      <Compile Include="Assets\scripts\js\CreatureHPBarjs.js" />
      <Compile Include="Assets\scripts\js\CreatureStats.js" />
+     <Compile Include="Assets\scripts\js\DrawCharacterCollision.js" />
      <Compile Include="Assets\scripts\js\DungeonCore.js" />
      <Compile Include="Assets\scripts\js\DungeonCoreCamera.js" />
      <Compile Include="Assets\scripts\js\DungeonFakeCore.js" />
