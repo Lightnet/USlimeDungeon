@@ -7,10 +7,15 @@ var size : Vector2 = new Vector2(32,10);
 function OnGUI()
 {
      //var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y * -1,transform.position.z )); //2d
-     var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y,transform.position.z * -1)); //3d
+     //var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y,transform.position.z * -1)); //3d
+     //var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y,transform.position.z)); //3d
+     //var wantedPos = Camera.main.WorldToViewportPoint (transform.position);
+     //var wantedPos = Camera.main.WorldToViewportPoint (new Vector3(transform.position.x,transform.position.y,transform.position.z)); //3d
      //var wantedPos = Camera.main.WorldToScreenPoint( transform.position);
      //GUI.Box (Rect (wantedPos.x,wantedPos.y, size.x, size.y),progressBarFull);
-     GUI.Label(new Rect(wantedPos.x + pos.x,wantedPos.y+ pos.y, size.x, size.y), "Name:");
+     var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y,transform.position.z));//3d
+     GUI.Label(new Rect(wantedPos.x + pos.x,Screen.height+(wantedPos.y*-1)+ pos.y, size.x, size.y), "Name:");
+     //print(wantedPos);
 } 
  
  function Update()

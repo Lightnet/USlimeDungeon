@@ -248,13 +248,13 @@ function Update () {
 		var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 		if(Physics.Raycast(ray, hit)){
 			if(hit.point != null){
-				print(hit.point);
+				//print(hit.point);
 				pos = hit.point;
 			}
 		}
 
 
-		print("move?");
+		//print("move?");
 		for(var ounit:CreatureStats in selectunits){
 			if(ounit !=null){
 		  		var bot:CreatureBotjs = ounit.transform.gameObject.GetComponent(CreatureBotjs) as CreatureBotjs;

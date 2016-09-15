@@ -21,11 +21,16 @@ var progressBarFull : Texture2D;
      //GUI.EndGroup ();
      //transform.position
      //var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y * -1,transform.position.z ));//2d
-     var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y ,transform.position.z *-1));//3d
+     //var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y ,transform.position.z));//3d
+     //var creature = transform.root.transform;
+     //var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(creature.position.x,creature.position.y,creature.position.z));//3d
+     var wantedPos = Camera.main.WorldToScreenPoint (new Vector3(transform.position.x,transform.position.y,transform.position.z));//3d
+     //var wantedPos = Camera.main.WorldToScreenPoint( transform.position);
      //var wantedPos = Camera.main.WorldToScreenPoint( transform.position);
      //GUI.Box (Rect (wantedPos.x,wantedPos.y, size.x, size.y),progressBarFull);
 
-     GUI.DrawTexture(new Rect(wantedPos.x + pos.x,wantedPos.y+ pos.y, size.x, size.y), progressBarFull);
+     GUI.DrawTexture(new Rect(wantedPos.x + pos.x,Screen.height+(wantedPos.y*-1)+ pos.y, size.x, size.y), progressBarFull);
+     print(wantedPos);
  } 
  
  function Update()
