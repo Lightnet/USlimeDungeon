@@ -12,6 +12,11 @@ function Start () {
 }
 
 function Update () {
+	var rot = transform.rotation;
+	rot.x = 0;
+    rot.z = 0;
+    rot.y = 0;
+    transform.rotation = rot; 
 
 }
 
@@ -26,6 +31,5 @@ function MoveTo(pos:Vector3){
 
 	if(agent !=null){
 		agent.SetDestination(pos);
-
 	}
 }

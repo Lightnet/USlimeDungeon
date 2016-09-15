@@ -30,7 +30,7 @@ var progressBarFull : Texture2D;
      //GUI.Box (Rect (wantedPos.x,wantedPos.y, size.x, size.y),progressBarFull);
 
      GUI.DrawTexture(new Rect(wantedPos.x + pos.x,Screen.height+(wantedPos.y*-1)+ pos.y, size.x, size.y), progressBarFull);
-     print(wantedPos);
+     //print(wantedPos);
  } 
  
  function Update()
